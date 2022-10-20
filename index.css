@@ -3,6 +3,10 @@
   transition: all 0.2s ease-in-out;
 }
 
+a{
+  text-decoration: none;
+  color: black;
+}
 body {
   background: #008888;
   display: grid;
